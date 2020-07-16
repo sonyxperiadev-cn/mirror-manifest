@@ -10,3 +10,5 @@ repo sync
 git daemon --verbose --export-all --base-path=. .
 
 ```
+
+***共需要39.72GB存储空间（2020年07月16日的版本）***
