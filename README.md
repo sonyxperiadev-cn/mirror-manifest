@@ -1,4 +1,4 @@
-# 使用`repo init --mirror`建立`github.com/sonyxperiadev`的本地镜像
+### 使用`repo init --mirror`建立`github.com/sonyxperiadev`的本地镜像
 ```shell
 # 初始化
 repo init -u https://gitee.com/sonyxperiadev-cn/mirror-manifest --mirror
